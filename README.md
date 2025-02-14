@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Florida2DAM/WatchTracker">
-    <img src="https://avatars.githubusercontent.com/t/4374826?s=280&v=4" alt="Logo" width="300" height="300">
+  <a href="https://github.com/rsanzfloridauni/DAM2425_Taronja">
+    <img src="https://raw.githubusercontent.com/Martincho72/FishHubImages/refs/heads/main/FishHub_Logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h1 align="center">Fish Hub</h1>
