@@ -26,7 +26,7 @@ Stay updated on the latest marine discoveries, log your fishing trips, and becom
 <!-- CONTACT -->
 ## Developer Team
 
-|      Members            |             Contact          |  Avatar  |
+|      Members            |             Contact          |    🎣    |
 |-------------------------|------------------------------|----------|
 |  Juan Martín Barrachina |  jubaal@alumnatflorida.es    |<img src="https://raw.githubusercontent.com/Martincho72/FishHubImages/refs/heads/main/Team/Martin.jpeg" alt="drawing" width="175" height="300"/>|
 |  Rubén López            |  rulohe@alumnatflorida.es    |<img src="https://raw.githubusercontent.com/Martincho72/FishHubImages/refs/heads/main/Team/Ruben.jpeg" alt="drawing" width="175" height="300"/>|
