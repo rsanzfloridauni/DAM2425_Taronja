@@ -28,10 +28,10 @@ Stay updated on the latest marine discoveries, log your fishing trips, and becom
 
 |      Members            |             Contact          |  Avatar  |
 |-------------------------|------------------------------|----------|
-|  Juan Martín Barrachina |  jubaal@alumnatflorida.es    |<img src="" alt="drawing" width="50" height="50"/>|
-|  Rubén López            |  rulohe@alumnatflorida.es    |<img src="" alt="drawing" width="50" height="50"/>|
-|  Alejandro Llorente     |  alllsa01@alumnatflorida.es  |<img src="" alt="drawing" width="50" height="50"/>|
-|  Diego Martínez         |  dimale@alumnatflorida.es    |<img src="" alt="drawing" width="50" height="50"/>|
+|  Juan Martín Barrachina |  jubaal@alumnatflorida.es    |<img src="https://raw.githubusercontent.com/Martincho72/FishHubImages/refs/heads/main/Team/Martin.jpeg" alt="drawing" width="50" height="50"/>|
+|  Rubén López            |  rulohe@alumnatflorida.es    |<img src="https://raw.githubusercontent.com/Martincho72/FishHubImages/refs/heads/main/Team/Ruben.jpeg" alt="drawing" width="50" height="50"/>|
+|  Alejandro Llorente     |  alllsa01@alumnatflorida.es  |<img src="https://raw.githubusercontent.com/Martincho72/FishHubImages/refs/heads/main/Team/Alejandro.jpeg" alt="drawing" width="50" height="50"/>|
+|  Diego Martínez         |  dimale@alumnatflorida.es    |<img src="https://raw.githubusercontent.com/Martincho72/FishHubImages/refs/heads/main/Team/Diego.jpeg" alt="drawing" width="50" height="50"/>|
 
 ## Developed with
 
