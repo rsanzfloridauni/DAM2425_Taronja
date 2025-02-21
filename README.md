@@ -51,12 +51,14 @@ Stay updated on the latest marine discoveries, log your fishing trips, and becom
 <!-- GETTING STARTED -->
 ## Getting Started
 
+### Promotional Video
+ * [Video](https://drive.google.com/file/d/19ww0p1FTzPcZb2oGyF6LvaJ6lrERKo1p/view?usp=drive_link)
 
 ## Link Android APK
 <a href="https://drive.google.com/file/d/1BgMb7cV_gryxwSCz8slzu5FQGZs5S-uo/view?usp=sharing">App</a>
 
-## Documentation
 
+## Documentation
 
 ### Web API Documentation
  * [Web API](https://drive.google.com/file/d/1U21za24SE4gDWDbVx69P0rtMBRzUiUxT/view?usp=sharing)
